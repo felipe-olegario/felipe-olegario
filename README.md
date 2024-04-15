@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/felipeolegario"><img src="https://api.daily.dev/devcards/v2/IhkjIkRP4vJ2y4VzeJWbT.png?r=n6g&type=wide" width="652" alt="FELIPE DA CRUZ OLEGARIO's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Felipe Olegario</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
